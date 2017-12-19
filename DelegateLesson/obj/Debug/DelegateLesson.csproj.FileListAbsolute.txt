@@ -1,0 +1,9 @@
+c:\users\скидано\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.exe.config
+c:\users\скидано\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.exe
+c:\users\скидано\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\bin\Debug\DelegateLesson.pdb
+c:\users\скидано\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.csprojResolveAssemblyReference.cache
+c:\users\скидано\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.exe
+c:\users\скидано\documents\visual studio 2017\Projects\DelegateLesson\DelegateLesson\obj\Debug\DelegateLesson.pdb
+C:\Users\Abai\Desktop\DelegatesLesson-master\DelegateLesson\bin\Debug\DelegateLesson.exe.config
+C:\Users\Abai\Desktop\DelegatesLesson-master\DelegateLesson\obj\Debug\DelegateLesson.exe
+C:\Users\Abai\Desktop\DelegatesLesson-master\DelegateLesson\obj\Debug\DelegateLesson.pdb
